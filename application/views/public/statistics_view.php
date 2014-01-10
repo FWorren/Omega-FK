@@ -1,0 +1,71 @@
+<h1>Statistikk</h1>
+<table class="table table-hover table-striped">
+	<thead>
+		<tr>
+			<th>Spiller</th>
+			<th>Kamper</th>
+			<th>M&aring;l</th>
+			<th>Gule kort</th>
+			<th>R&oslash;de kort</th>
+			<th>BB</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Fredrik Worren</td>
+			<td>4</td>
+			<td>5</td>
+			<td>1</td>
+			<td>0</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>test</td>
+			<td>test</td>
+			<td>test</td>
+			<td>test</td>
+			<td>test</td>
+			<td>test</td>
+		</tr>
+		<tr>
+			<td>test</td>
+			<td>test</td>
+			<td>test</td>
+			<td>test</td>
+			<td>test</td>
+			<td>test</td>
+		</tr>
+		<tr>
+			<td>test</td>
+			<td>test</td>
+			<td>test</td>
+			<td>test</td>
+			<td>test</td>
+			<td>test</td>
+		</tr>
+		<tr>
+			<td>test</td>
+			<td>test</td>
+			<td>test</td>
+			<td>test</td>
+			<td>test</td>
+			<td>test</td>
+		</tr>
+		<tr>
+			<td>test</td>
+			<td>test</td>
+			<td>test</td>
+			<td>test</td>
+			<td>test</td>
+			<td>test</td>
+		</tr>
+		<tr>
+			<td>test</td>
+			<td>test</td>
+			<td>test</td>
+			<td>test</td>
+			<td>test</td>
+			<td>test</td>
+		</tr>
+	</tbody>
+</table>
